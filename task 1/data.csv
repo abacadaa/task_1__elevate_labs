@@ -1,0 +1,21 @@
+ID,Name,Age,Gender,City,Email,Phone_Number,Subscription_Date,Order_Value,Comments
+1,Alice Smith,30,Female,New York,alice.smith@example.com,123-456-7890,15-01-2023,150.75,"Great customer, very responsive."
+2,  Bob Johnson  ,25,Male,Los Angeles,bob.j@example.com, (987)654-3210, 2022/11/01 ,200," ""Needs follow-up"""
+3,Charlie Brown,35,M,Chicago,charlie.brown@example.com,1112223333,20-03-2024,99.5,
+4,Diana Prince,28,female,Miami,diana.p@example.com,444-555-6666,05-07-2023,250.25,Prefers email communication
+5,Eve Adams,42,F,Houston,eve@example,555.666.7777,10-09-2022,120,Loyal customer
+6,Frank White,,Male,Dallas,frank.w@example.com,777-888-9999,28-02-2023,300,Bought multiple items
+7,Grace Taylor,29,Female,New York,grace.t@example.com,123-456-7890,15-01-2023,150.75,"Duplicate entry of Alice Smith, but different ID"
+8,Henry Moore,50,Male,San Francisco,henry.moore@example.com,,01-01-2024,75,First-time buyer
+9,Ivy Green,22,FEMALE,Seattle,ivy.g@example.com, (123)456-7890, 05-20-2023,180," ""Potential churn risk"""
+10,Jack King,33,Male,Boston,jack.king@example.com,9998887777,12-12-2023,50,No issues
+11,Karen Lee,38,Female,Chicago,karen.l@example.com,111-222-3333,20-03-2024,99.5,"Duplicate entry of Charlie Brown, but different ID and Name"
+12,Liam Hall,27,male,Denver,liam@example.com,777-888-9999,28-02-2023,300,Misspelled city
+13,Mia Davis,31,Female,Phoenix,mia.d@example.com,000-000-0000,18-06-2022,220.5,Invalid phone number
+14,Noah Clark,-10,Male,Austin,noah.c@example.com,123-456-7890,25-09-2023,100,Negative age
+15,Olivia Evans,45,Female,New York,olivia.e@example.com,123-456-7890,15-01-2023,150.75,Another duplicate of Alice Smith
+16,Peter Scott,30,Male,New York,peter.s@example.com,123-456-7890,15-01-2023,150.75,Yet another duplicate of Alice Smith
+17,Quinn Ross,26,Male,Portland,quinn.r@example.com,1234567890,10-10-2023,175,Different phone format
+18,Rachel Kim,34,Female,San Diego,rachel.k@example.com,888-999-0000,01-04-2024,70,
+19,Sam Miller,23,Male,Las Vegas,sam.m@example.com,111-222-3333,15-05-2023,110,
+20,Tina Bell,36,Female,Charlotte,tina.b@example.com,999-888-7777,01-12-2022,90,
